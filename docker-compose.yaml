@@ -13,10 +13,10 @@ x-airflow-common:
     AIRFLOW__CORE__DAGS_ARE_PAUSED_AT_CREATION: 'true'
     AIRFLOW__CORE__LOAD_EXAMPLES: 'false'
     AIRFLOW__API__AUTH_BACKEND: 'airflow.api.auth.backend.basic_auth'
-    GOOGLE_APPLICATION_CREDENTIALS: /.google/credentials/stock_project_google_credentials.json
-    AIRFLOW_CONN_GOOGLE_CLOUD_DEFAULT: 'google-cloud-platform://?extra__google_cloud_platform__key_path=/.google/credentials/stock_project_google_credentials.json'
-    GCP_PROJECT_ID: 'stock-project-371020'
-    GCP_GCS_BUCKET: 'stock_data_lake_stock-project'
+    GOOGLE_APPLICATION_CREDENTIALS: /.google/credentials/real-estate-project.json
+    AIRFLOW_CONN_GOOGLE_CLOUD_DEFAULT: 'google-cloud-platform://?extra__google_cloud_platform__key_path=/.google/credentials/real-estate-project.json'
+    GCP_PROJECT_ID: 'real-estate-project-372420'
+    GCP_GCS_BUCKET: 'zillow_data_raw'
     
   volumes:
     - ./dags:/opt/airflow/dags
