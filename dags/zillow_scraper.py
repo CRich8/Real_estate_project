@@ -70,4 +70,5 @@ def zillow_scraper():
     csv = df.to_csv(index=False) 
     with open(f'hoboken_{today}.csv', 'w', encoding="utf8") as file:
         file.write(csv)
+        
 zillow_scraper()
