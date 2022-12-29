@@ -39,14 +39,14 @@ today = date.today()
 OUTPUT_FILE_TEMPLATE = AIRFLOW_HOME + f"/hoboken_{today}.csv"
 CSV_FILE = f"hoboken_{today}.csv"
 DATASET = "zillow_data_all"
-TABLE_NAME = 'hoboken_raw_daily_table'
+TABLE_NAME = 'hoboken_raw_daily'
 INPUT_FILETYPE = "csv"
 
 schema2 = [
   {
-    "name": "int64_field_0",
+    "name": "Date",
     "mode": "NULLABLE",
-    "type": "INTEGER",
+    "type": "DATE",
     "fields": []
   },
   {
@@ -402,4 +402,3 @@ with DAG(
     )
     
     downlod_dataset_python_task >> local_to_gcs_task >> rm_task >> gcs_to_bigquery_task
-

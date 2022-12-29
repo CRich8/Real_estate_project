@@ -51,7 +51,8 @@ def zillow_scraper():
         data10 = json.loads(re.search(r'!--(\{"queryState".*?)-->', r10.text).group(1))
 
     data_list = [data1,data2,data3,data4,data5,data6,data7,data8,data9,data10]
-    df = pd.DataFrame()
+    schema = ['Date','zpid','id','providerListingId','imgSrc','hasImage','detailUrl','statusType','statusText','countryCurrency','price','unformattedPrice','address','addressStreet','addressCity','addressState','addressZipcode','isUndisclosedAddress','beds','baths','area','latLong','isZillowOwned','variableData','badgeInfo','isSaved','isUserClaimingOwner','isUserConfirmedClaim','pgapt','sgapt','zestimate','shouldShowZestimateAsPrice','has3DModel','hasVideo','isHomeRec','info2String','hasAdditionalAttributions','isFeaturedListing','availabilityDate','list','relaxed','brokerName','hasOpenHouse','openHouseDescription','openHouseEndDate','openHouseStartDate','builderName','info3String','lotAreaString','isPropertyResultCDP','best_deal']
+    df = pd.DataFrame(columns = schema)
     def make_frame(frame):
         for i in data_list:
             for item in i['cat1']['searchResults']['listResults']:
@@ -62,8 +63,11 @@ def zillow_scraper():
     df = df.drop_duplicates(subset='zpid', keep="last")
     df['zestimate'] = df['zestimate'].fillna(0)
     df['best_deal'] = df['unformattedPrice'] - df['zestimate']
+    df['Date'] = today
+    first_column = df.pop('Date')
+    df.insert(0, 'Date', first_column)
     df = df.sort_values(by='best_deal',ascending=True)
-    csv = df.to_csv() 
+    csv = df.to_csv(index=False) 
     with open(f'hoboken_{today}.csv', 'w', encoding="utf8") as file:
         file.write(csv)
 zillow_scraper()
