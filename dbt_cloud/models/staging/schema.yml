@@ -1,0 +1,56 @@
+
+version: 2
+
+sources:
+  - name: staging
+    database: real-estate-project-372420
+    schema: zillow_data_all
+
+    tables:
+      - name: hoboken_raw_daily
+  
+  - name: mis
+    database: real-estate-project-372420
+    schema: mis_data_all
+    
+    tables:
+      - name: RDC_Inventory_Core_Metrics_Zip
+      - name: RDC_Inventory_Hotness_Metrics_Zip_History
+      - name: all_transactions_house_price_index
+      - name: hb_census_qf
+      - name: housing_inventory__new_listing_count_nj
+      - name: housing_inventory_active_listing_count_nj
+      - name: nj_census_qf
+      - name: zw_home_vale_all_mid_tier_monthly
+      - name: zw_home_value_all_top_tier_monthly
+      - name: zw_home_value_forecast_all_mi_tier_monthly
+      - name: zw_home_value_sf_mid_tier_monthly
+
+  - name: airbnb
+    database: real-estate-project-372420
+    schema: airbnb_data_all
+    
+    tables:
+      - name: hoboken_listings
+      - name: hoboken_market_summary
+      - name: hoboken_occupancy_rates
+      - name: hoboken_rental_rates
+
+
+models:
+    - name: stg_all_transactions_house_price_index
+    - name: stg_hb_census_qf
+    - name: stg_hoboken_zillow_daily
+    - name: stg_housing_inventory__new_listing_count_nj
+    - name: stg_housing_inventory_active_listing_count_nj
+    - name: stg_nj_census_qf
+    - name: stg_rdc_inventory_core_metrics_zip
+    - name: stg_rdc_inventory_hotness_metrics_zip_hostory
+    - name: stg_zw_home_vale_all_mid_tier_monthly
+    - name: stg_zw_home_value_all_top_tier_monthly
+    - name: stg_zw_home_value_forecast_all_mi_tier_monthly
+    - name: stg_zw_home_value_sf_mid_tier_monthly
+    - name: stg_airbnb_hoboken_listings.sql
+    - name: stg_airbnb_hoboken_market_summary.sql
+    - name: stg_airbnb_hoboken_occupancy_rates.sql
+    - name: stg_airbnb_hoboken_rental_rates.sql
