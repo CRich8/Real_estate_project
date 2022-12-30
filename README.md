@@ -34,7 +34,7 @@ Another critical part of running an Airbnb business is being aware of the occupa
 
 ![Room Count Analysis](https://github.com/CRich8/Real_estate_tracker/blob/main/images/Room_count_analysis.png)
 
-The national occupancy rate in 2022 was 48%, and Hoboken saw an average of 57%, which is well above the national average, indicating a strong Airbnb market. It is also essential to compare the occupancy rate between different house sizes by room. By analyzing the performance between houses with different room counts, investors can narrow their search for homes optimized for the highest occupancy rate and daily price combination.
+The national occupancy rate in 2022 was 48%. Hoboken saw an average of 57%, which is well above the national average, indicating a strong Airbnb market. It is also essential to compare the occupancy rate between different house sizes by room. By analyzing the performance between houses with different room counts, investors can narrow their search for homes optimized for the highest occupancy rate and daily price combination.
 
 As you can see, one and three-bedroom houses have the highest occupancy rate. An interesting thing to note is the nearly identical monthly income of three and four-bedroom homes, which occurs despite four-room homes having a much higher median night rate. This exemplifies the importance of investing in high occupancy rate houses. You can also see that one- and two-room houses have the highest count of rentals, which should indicate more competition to investors. 
 
