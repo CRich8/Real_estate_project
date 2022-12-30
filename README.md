@@ -21,7 +21,7 @@ There are many factors which influence the housing market. Part of the reason fo
 To meet the needs of an investor looking to purchase a house, I scraped active listings from Zillow.com. I displayed the data in a map and table to easily identify important details of a listing.
 
 ![Active Listings](https://github.com/CRich8/Real_estate_tracker/blob/main/images/Active_Zillow_Listings.png)
-![Hoboken Map](https://github.com/CRich8/Real_estate_tracker/blob/main/images/HobokenMap.png)
+
 
 
 
