@@ -36,7 +36,7 @@ Another critical part of running an Airbnb business is being aware of the occupa
 
 The national occupancy rate in 2022 was 48%. Hoboken saw an average of 57%, which is well above the national average, indicating a strong Airbnb market. It is also essential to compare the occupancy rate between different house sizes by room. By analyzing the performance between houses with different room counts, investors can narrow their search for homes optimized for the highest occupancy rate and daily price combination.
 
-As you can see, one and three-bedroom houses have the highest occupancy rate. An interesting thing to note is the nearly identical monthly income of three and four-bedroom homes, which occurs despite four-room homes having a much higher median night rate. This exemplifies the importance of investing in high occupancy rate houses. You can also see that one- and two-room houses have the highest count of rentals, which should indicate more competition to investors. 
+As you can see, one and three-bedroom houses have the highest occupancy rate. An interesting thing to note is the nearly identical monthly income of three and four-bedroom homes, which occurs despite four-room homes having a much higher median night rate. This exemplifies the importance of investing in high occupancy rate houses. You can also see that one and two-room houses have the highest count of rentals, which should indicate more competition to investors. 
 
 Based on this analysis, three-room houses in Hoboken, NJ, are the best investment. However, an investor must be lucky enough to find an active three-room listing. Fortunately, my daily active Zillow listing scraper accomplishes this. 
 
