@@ -9,4 +9,7 @@ The pipeline is setup on GCP to ingest each dataset and perform ddaily transform
 ## Data Analysis
 It is no secret that the average house price in America has been on a sharp rise in the last few decades. In the last 20 years, the House Price Index in New Jersey has more than doubled.
 
+The definition of House Price Index from the FHFA website:
+> *The FHFA HPI is a broad measure of the movement of single-family house prices. The FHFA HPI is a weighted, repeat-sales index, meaning that it measures average price changes in repeat sales or refinancings on the same properties*
+
 ![NJHPI](https://github.com/CRich8/Real_estate_tracker/blob/main/images/NJHPI.png)
