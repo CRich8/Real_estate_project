@@ -8,4 +8,5 @@ The pipeline is setup on GCP to ingest each dataset and perform ddaily transform
 
 ## Data Analysis
 It is no secret that the average house price in America has been on a sharp rise in the last few decades. In the last 20 years, the House Price Index in New Jersey has more than doubled.
+
 ![NJHPI](https://github.com/CRich8/Real_estate_tracker/blob/main/images/NJHPI.png)
