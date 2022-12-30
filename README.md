@@ -22,7 +22,7 @@ To meet the needs of an investor looking to purchase a house, I scraped active l
 
 ![Active Listings](https://github.com/CRich8/Real_estate_tracker/blob/main/images/Active_Zillow_Listings_Map.png)
 
-Airbnb is an excellent way for investors to generate passive income with residential real estate. There is a growing movement of entrepreneurs, real estate companies, and savvy homeowners converting their property into a passive income-generating asset. To determine the potential ROI of a house in Hoboken, I extracted Airbnb data from RapidAPI. This allows an investor to quickly compare the details of a Zillow listing to the Airbnb market of their chosen city. In this case study, the Hoboken Airbnb market is 
+Airbnb is an excellent way for investors to generate passive income with residential real estate. There is a growing movement of entrepreneurs, real estate companies, and savvy homeowners converting their property into a passive income-generating asset. To determine the potential ROI of a house in Hoboken, I extracted Airbnb data from RapidAPI. This allows an investor to quickly compare the details of a Zillow listing to the Airbnb market of their chosen city.
 
 Let's see the distribution of daily price, monthly income, and rental type for the Hoboken Airbnb market.
 
