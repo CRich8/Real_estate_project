@@ -30,7 +30,7 @@ Let's see the distribution of daily price, monthly income, and rental type for t
 
 As expected for a high-density city, Apartment is by far the most common rental type. The most common daily price ranges between $150 - $200, and monthly income between $1k  - $3k. Both daily price and rental income are right-skewed histograms which are not surprising since income and wealth are classic examples of this distribution. These are important metrics to consider when purchasing a house in Hoboken.
 
-Another critical part of running a sucessful Airbnb business is understandiing the occupancy rate of your property and local market. For example, owning a five-bedroom home valued at $500 a night is only as good as the number of monthly bookings you receive at that price.
+Another critical part of running a sucessful Airbnb business is understanding the occupancy rate of your property and local market. For example, owning a five-bedroom home valued at $500 a night is only as good as the number of monthly bookings you receive at that price.
 
 ![Room Count Analysis](https://github.com/CRich8/Real_estate_tracker/blob/main/images/Room_count_analysis.png)
 
