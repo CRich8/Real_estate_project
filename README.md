@@ -1,4 +1,4 @@
-# Reak Estate Market Analysis: Hoboken, NJ (07030)
+# Real Estate Market Analysis: Hoboken, NJ (07030)
 Due to the rising house prices in New Jersey, I wanted to see if investing in real estate was still an excellent opportunity for those looking for passive income. I chose Hoboken, New Jersey, as the market to analyze because of my interest in this city and because it is in high demand both on Zillow and Airbnb. The goal is to create a dashboard for investors to analyze their real estate market of interest. I collected data from multiple sources, including Zillow, Airbnb, Realtor.com, and FHFA, to get an overview of the real estate market of Hoboken, NJ.
 
 ## Overview of the pipeline
