@@ -30,16 +30,16 @@ Let's see the distribution of daily price, monthly income, and rental type for t
 
 As expected for a high-density city, Apartment is by far the most common rental type. The most common daily price ranges between $150 - $200, and monthly income between $1k  - $3k. Both daily price and rental income are right-skewed histograms which are not surprising since income and wealth are classic examples of this distribution. These are important metrics to consider when purchasing a house in Hoboken.
 
-Another critical part of running an Airbnb business is being aware of the occupancy rate of the city and your future property. For example, owning a five-bedroom home valued at $500 a night is only as good as the monthly bookings you receive to cover your mortgage.
+Another critical part of running a sucessful Airbnb business is understandiing the occupancy rate of your property and local market. For example, owning a five-bedroom home valued at $500 a night is only as good as the number of monthly bookings you receive at that price.
 
 ![Room Count Analysis](https://github.com/CRich8/Real_estate_tracker/blob/main/images/Room_count_analysis.png)
 
 The national occupancy rate in 2022 was 48%. Hoboken saw an average of 57%, which is well above the national average, indicating a strong Airbnb market. It is also essential to compare the occupancy rate between different house sizes by room. By analyzing the performance between houses with different room counts, investors can narrow their search for homes optimized for the highest occupancy rate and daily price combination.
 
-As you can see, one and three-bedroom houses have the highest occupancy rate. An interesting thing to note is the nearly identical monthly income of three and four-bedroom homes, which occurs despite four-room homes having a much higher median night rate. This exemplifies the importance of investing in high occupancy rate houses. You can also see that one and two-room houses have the highest count of rentals, which should indicate more competition to investors. 
+As you can see, one and three-bedroom houses have the highest occupancy rate. An interesting thing to note is the nearly identical monthly income of three and four-bedroom homes, which occurs despite four-room homes having a much higher median night rate. This exemplifies the importance of investing in high occupancy rate houses. You can also see that one and two-room houses have the highest count of rentals, which indicates higher competition for renters. 
 
-Based on this analysis, three-room houses in Hoboken, NJ, are the best investment. However, an investor must be lucky enough to find an active three-room listing. Fortunately, my daily active Zillow listing scraper accomplishes this. 
+Based on this analysis, three-room houses in Hoboken, NJ, have the greatest opportunitiy to maximize ROI. They have the highest occupancy rate and median daily night price without a significant However, an investor must be lucky enough to find an active three-room listing. Fortunately, my daily active Zillow listing scraper accomplishes this. 
 
-As of 12/30/22, the listing for 218 Jackson St APT 6, Hoboken, NJ 07030 is the lowest cost, three-bedroom house on the market. https://www.zillow.com/homedetails/218-Jackson-St-APT-6-Hoboken-NJ-07030/2064674728_zpid/
+As of 12/30/22, the listing for 218 Jackson St APT 6, Hoboken, NJ 07030 is the lowest cost, three-bedroom house on the market. At only $770k, you can convert this property into a ~$4k/month passive income generatig asset. https://www.zillow.com/homedetails/218-Jackson-St-APT-6-Hoboken-NJ-07030/2064674728_zpid/
 
 
