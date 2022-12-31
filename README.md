@@ -38,7 +38,7 @@ The national occupancy rate in 2022 was 48%. Hoboken saw an average of 57%, whic
 
 As you can see, one and three-bedroom houses have the highest occupancy rate. An interesting thing to note is the nearly identical monthly income of three and four-bedroom homes, which occurs despite four-room homes having a much higher median night rate. This exemplifies the importance of investing in high occupancy rate houses. You can also see that one and two-room houses have the highest count of rentals, which indicates higher competition for renters. 
 
-Based on this analysis, three-room houses in Hoboken, NJ, have the greatest opportunitiy to maximize ROI. They have the highest occupancy rate and median daily night price without a significant However, an investor must be lucky enough to find an active three-room listing. Fortunately, my daily active Zillow listing scraper accomplishes this. 
+Based on this analysis, three-room houses in Hoboken, NJ, have the greatest opportunitiy to maximize ROI. They have the highest occupancy rate and higher daily night price compared to one room and lower upfront investment compared to four room houses. However, an investor must be lucky enough to find an active three-room listing at a price that makes sense. Fortunately, my daily active Zillow listing scraper accomplishes this. 
 
 As of 12/30/22, the listing for 218 Jackson St APT 6, Hoboken, NJ 07030 is the lowest cost, three-bedroom house on the market. At only $770k, you can convert this property into a ~$4k/month passive income generatig asset. https://www.zillow.com/homedetails/218-Jackson-St-APT-6-Hoboken-NJ-07030/2064674728_zpid/
 
