@@ -14,7 +14,7 @@ The definition of the House Price Index from the FHFA website:
 
 ![NJHPI](https://github.com/CRich8/Real_estate_tracker/blob/main/images/NJHPI.png)
 
-Many factors influence the housing market. The lower volume of active listings is partly the reason for such a sharp increase. The supply of available homes to purchase is decreasing while simultaneously, the demand for houses has increased. The laws of supply and demand are responsible for the price increase. One solution to this problem is to improve the zoning laws in New Jersey. Local municipalities should focus on expanding high-density zoning to increase the housing supply.
+Many factors influence the housing market. The lower volume of active listings is partly the reason for such a sharp increase. The supply of available homes to purchase is decreasing while simultaneously, the demand for houses has increased. One solution to this problem is to improve the zoning laws in New Jersey. Local municipalities should focus on expanding high-density zoning to increase the housing supply.
 
 ![NJALC](https://github.com/CRich8/Real_estate_tracker/blob/main/images/NJALC.png)
 
