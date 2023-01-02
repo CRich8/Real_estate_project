@@ -1,5 +1,5 @@
 # Real Estate Market Analysis: Hoboken, NJ (07030)
-You may visit the dashboard here[Tableau](https://public.tableau.com/shared/H86XF34M6?:display_count=n&:origin=viz_share_link).
+You may visit the dashboard here(https://public.tableau.com/shared/H86XF34M6?:display_count=n&:origin=viz_share_link).
 
 Due to the rising house prices in New Jersey, I wanted to see if investing in real estate was still an excellent opportunity for those looking for passive income. I chose Hoboken, New Jersey, as the market to analyze because of my interest in this city and because it is in high demand both on Zillow and Airbnb. The goal is to create a dashboard for investors to analyze their real estate market of interest. I collected data from multiple sources, including Zillow, Airbnb, Realtor.com, and FHFA.
 
